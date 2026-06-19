@@ -2,7 +2,7 @@
 
 ФИО: впиши своё имя и фамилию
 Группа: впиши свою группу
-Ссылка на GitHub: (будет позже)
+Ссылка на GitHub: https://github.com/4youmans/student-task-journal-payusov.git
 
 ## Выполненные коммиты
 1. init: add project description
