@@ -1,4 +1,9 @@
 Сюда впиши, какие скриншоты приложены к сдаче:
 1. Source Control с изменениями.
 2. GitHub-репозиторий.
-3. Git Graph с историей коммитов — git_graph.png
+3. Git Graph с историей коммитов 
+
+Файлы скриншотов:
+- git_graph.png
+- source_control.png
+- github_repo.png
